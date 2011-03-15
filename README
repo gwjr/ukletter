@@ -1,3 +1,7 @@
 A latex class for typesetting business letters in a traditional UK format.
 
 Attempts to guarantee the address panel and large exclusion zone from BS 1808 such that letters will reliably display their addresses in BS 4264 window envelopes.
+
+Copyright (C) Giles Robertson 2011-
+
+This material is subject to the LaTeX Project Public Licence. See http://www.ctan.org/tex-archive/help/Catalogue/licenses.lppl.html for the details of that licence.
